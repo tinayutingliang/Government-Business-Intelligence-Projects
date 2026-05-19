@@ -66,7 +66,9 @@ The project supports data-driven decision-making and transparency initiatives wi
 
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/usage.png)
+
+![Dashboard Overview](screenshots/active.png)
 
 ---
 
