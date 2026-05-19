@@ -52,16 +52,16 @@ Contributed to website-related analytics and reporting processes supporting publ
 
 ### 📄 SSRS Reporting Projects
 
-#### BOBJ Migrate Full Cost SSRS Report
+#### Full Cost Report
 Worked on reporting migration and operational reporting workflows using SSRS.
 
-#### ByLaw Report SSRS
+#### ByLaw Report
 Supported reporting solutions for bylaw-related operational analysis.
 
-#### Citywork Work Order SSRS Report
+#### Citywork Work Order Report
 Developed and maintained reporting solutions for work order tracking and operational management.
 
-#### 311 Transit SSRS Report
+#### 311 Transit Report
 Created reporting workflows related to transit and 311 operational service requests.
 
 ---
