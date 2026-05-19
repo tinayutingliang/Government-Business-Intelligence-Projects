@@ -20,6 +20,12 @@ The project supports data-driven decision-making and transparency initiatives wi
 
 ---
 
+## Data Source
+
+https://catalogue-hrm.opendata.arcgis.com/datasets/e2485b695f7d44508e9ba991ac073439_0/explore
+
+---
+
 ## Dashboard Features
 
 ### Interactive Filters
